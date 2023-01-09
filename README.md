@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ratneshwar Prasad</h1>
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding"width="450"src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding"width="400"src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 📫 How to reach me **ratneshwar.10@gmail.com**
 
